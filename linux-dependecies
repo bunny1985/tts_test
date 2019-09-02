@@ -1,0 +1,1 @@
+sudo apt install libasound-dev build-essential libportaudio0 libportaudio2 libportaudiocpp0 portaudio19-dev python3-dev
